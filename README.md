@@ -1,2 +1,2 @@
-# foppey.github.io
+# foppery.github.io
 my protfolio
